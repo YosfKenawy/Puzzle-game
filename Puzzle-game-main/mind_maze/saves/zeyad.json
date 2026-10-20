@@ -1,0 +1,30 @@
+{
+  "name": "zeyad",
+  "games": {
+    "wordle": {
+      "easy": null,
+      "medium": null,
+      "hard": null
+    },
+    "wordscramble": {
+      "easy": null,
+      "medium": null,
+      "hard": null
+    },
+    "sudoku": {
+      "easy": null,
+      "medium": null,
+      "hard": null
+    },
+    "memorycards": {
+      "easy": null,
+      "medium": null,
+      "hard": null
+    },
+    "crosswords": {
+      "easy": null,
+      "medium": null,
+      "hard": null
+    }
+  }
+}

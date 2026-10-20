@@ -1,0 +1,27 @@
+{
+  "wordle": {
+    "easy": [],
+    "medium": [],
+    "hard": []
+  },
+  "wordscramble": {
+    "easy": [{ "name": "zeyad", "solved": 1, "totalSeconds": 4 }],
+    "medium": [{ "name": "zeyad", "solved": 1, "totalSeconds": 5 }],
+    "hard": []
+  },
+  "sudoku": {
+    "easy": [],
+    "medium": [],
+    "hard": []
+  },
+  "memorycards": {
+    "easy": [],
+    "medium": [],
+    "hard": []
+  },
+  "crosswords": {
+    "easy": [],
+    "medium": [],
+    "hard": []
+  }
+}
