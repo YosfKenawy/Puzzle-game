@@ -1,0 +1,9 @@
+mind_maze_app
+test_word_scramble
+test_wordle
+test_sudoku
+test_memory_cards
+test_crosswords
+saves/
+highscores.json
+*.tmp
